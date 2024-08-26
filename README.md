@@ -8,3 +8,4 @@ By incorporating the SMA50 and SMA200 indicators, our team sought to capture ess
 I took the initiative to refine our approach. By adjusting parameters and exploring alternative indicators, I aimed to enhance our predictive capabilities in the stock market. These modifications were undertaken with the goal of achieving more accurate forecasts for future stock prices.
 
 For more information, please take a look at my personal blog for LIME and ELI5 (Week 5), and our group blog for the overall project. Thank you very much!
+<img width="674" alt="Screenshot 2024-08-26 at 3 24 46 PM" src="https://github.com/user-attachments/assets/2320b877-6484-432c-8968-d6d83b9766eb">
